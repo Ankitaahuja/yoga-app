@@ -15,6 +15,7 @@ Once you have Node and npm installed at the right versions, run
 npm i -g nodemon
 to install nodemon, which will be used for development
 
+
 ## Built With
 JavaScript - The front-end framework used
 [CSS] -Stylesheets
@@ -22,3 +23,5 @@ express ~4.16.4 - The server-side framework used
 Mongoose - To help deal with object models
 express-generator - To generate the express server-side
 Google Places API - To seed data
+
+![ScreenShot](https://raw.github.com/ankitaahuja/yoga-app/master/public/images/Yogo1.png)
