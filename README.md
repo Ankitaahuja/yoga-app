@@ -25,3 +25,11 @@ express-generator - To generate the express server-side
 Google Places API - To seed data
 
 ![ScreenShot](https://raw.github.com/ankitaahuja/yoga-app/master/public/images/Yogo1.png)
+![ScreenShot](https://raw.github.com/ankitaahuja/yoga-app/master/public/images/Yogo2.png)
+![ScreenShot](https://raw.github.com/ankitaahuja/yoga-app/master/public/images/Yogo3.png)
+![ScreenShot](https://raw.github.com/ankitaahuja/yoga-app/master/public/images/Yogo4.png)
+![ScreenShot](https://raw.github.com/ankitaahuja/yoga-app/master/public/images/Yogo5.png)
+![ScreenShot](https://raw.github.com/ankitaahuja/yoga-app/master/public/images/Yogo6.png)
+![ScreenShot](https://raw.github.com/ankitaahuja/yoga-app/master/public/images/Yogo7.png)
+![ScreenShot](https://raw.github.com/ankitaahuja/yoga-app/master/public/images/Yogo8.png)
+![ScreenShot](https://raw.github.com/ankitaahuja/yoga-app/master/public/images/Yogo9.png)
